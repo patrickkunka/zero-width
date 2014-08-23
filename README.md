@@ -54,6 +54,6 @@ Because @font-face files may take a moment to load, often after the page has ren
 
 ### Further Reading
 
-[http://blog.typekit.com/2013/03/28/introducing-adobe-blank/](http://blog.typekit.com/2013/03/28/introducing-adobe-blank/)
-[http://css-tricks.com/fighting-the-space-between-inline-block-elements/](http://css-tricks.com/fighting-the-space-between-inline-block-elements/)
-[http://davidwalsh.name/remove-whitespace-inline-block](http://davidwalsh.name/remove-whitespace-inline-block)
+- [http://blog.typekit.com/2013/03/28/introducing-adobe-blank/](http://blog.typekit.com/2013/03/28/introducing-adobe-blank/)
+- [http://css-tricks.com/fighting-the-space-between-inline-block-elements/](http://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+- [http://davidwalsh.name/remove-whitespace-inline-block](http://davidwalsh.name/remove-whitespace-inline-block)
