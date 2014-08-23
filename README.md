@@ -62,7 +62,7 @@ Because @font-face files may take a moment to load, often after the page has ren
 
 This font is now kindly available via [http://www.jsdelivr.com/](jsDelivr)'s CDN.
 
-You may reference the 5 source files in your own CSS:
+You may reference the following 5 source files in your own CSS, using the @font-face syntax of your choice.
 
 ```
 //cdn.jsdelivr.net/font-zero-width/latest/zero-width.eot
