@@ -5,7 +5,7 @@ Zero-width web fonts allow us to clear the whitespace between inline-block eleme
 
 ### Background
 
-Various IE versions to not like `font-size: 0;` so `font-size: 0.1px;` is often suggested as an alternative. However, FireFox does not like `font-size: 0.1px` and rounds it up, negating its use. Using a "zero-width" font on our element provides us with whitespace clearing accross all font-face combatible browsers.
+Various IE versions do not like `font-size: 0;` so `font-size: 0.1px;` is often suggested as an alternative. However, FireFox does not like `font-size: 0.1px` and rounds it up, negating its use. Using a "zero-width" font on our element provides us with whitespace clearing accross all font-face combatible browsers.
 
 ### Repo Contents
 
