@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'zero-width';
+    src: url('..path-to-fonts/zero-width.eot');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'zero-width';
+    src: url('//:') format("No-IE-404"),
+         url('..path-to-fonts/zero-width.woff') format('woff'),
+         url('..path-to-fonts/zero-width.svg') format('svg'),
+         url('..path-to-fonts/zero-width.otf') format('opentype'),
+         url('..path-to-fonts/zero-width.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
