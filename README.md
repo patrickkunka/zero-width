@@ -1,7 +1,7 @@
 Zero-width Web Font
 =========
 
-Zero-width web fonts allow us to clear the whitespace between inline-block elements without having to declare `font-size: 0;` on our elements.
+Zero-width web fonts allow us to clear the whitespace between inline-block elements without having to declare `font-size: 0;` on the parent element.
 
 ### Background
 
