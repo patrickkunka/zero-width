@@ -57,3 +57,23 @@ Because @font-face files may take a moment to load, often after the page has ren
 - [http://blog.typekit.com/2013/03/28/introducing-adobe-blank/](http://blog.typekit.com/2013/03/28/introducing-adobe-blank/)
 - [http://css-tricks.com/fighting-the-space-between-inline-block-elements/](http://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 - [http://davidwalsh.name/remove-whitespace-inline-block](http://davidwalsh.name/remove-whitespace-inline-block)
+
+### CDN
+
+This font is now kindly available via [http://www.jsdelivr.com/](jsDelivr)'s CDN.
+
+You may reference the 5 source files in your own CSS:
+
+```
+//cdn.jsdelivr.net/font-zero-width/latest/zero-width.eot
+//cdn.jsdelivr.net/font-zero-width/latest/zero-width.otf
+//cdn.jsdelivr.net/font-zero-width/latest/zero-width.svg
+//cdn.jsdelivr.net/font-zero-width/latest/zero-width.ttf
+//cdn.jsdelivr.net/font-zero-width/latest/zero-width.woff
+```
+
+Alternatively, you can @import the ready-made CSS file:
+
+```css
+@import url('//cdn.jsdelivr.net/font-zero-width/latest/zero-width.css');
+```
